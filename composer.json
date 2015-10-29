@@ -3,6 +3,12 @@
     "description": "An unofficial PHP API wrapper for the Discord client (http://discordapp.com).",
     "homepage":    "https://github.com/Cleanse/discord-hypertext",
     "version":      "dev-master",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kraffslol/discord-hypertext"
+        }
+    ],
     "keywords":    [
         "discord",
         "discordapp",
