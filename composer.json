@@ -1,5 +1,5 @@
 {
-    "name":        "cleanse/discord-hypertext",
+    "name":        "kraffslol/discord-hypertext",
     "description": "An unofficial PHP API wrapper for the Discord client (http://discordapp.com).",
     "homepage":    "https://github.com/Cleanse/discord-hypertext",
     "version":      "0.0.1",
